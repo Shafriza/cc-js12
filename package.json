@@ -1,0 +1,19 @@
+{
+  "name": "cc-js12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shafriza/cc-js12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shafriza/cc-js12/issues"
+  },
+  "homepage": "https://github.com/Shafriza/cc-js12#readme"
+}
