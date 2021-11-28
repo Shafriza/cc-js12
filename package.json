@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "some command to be run",
+    "test": "(eslint lib || true) && jest"
   },
   "repository": {
     "type": "git",
